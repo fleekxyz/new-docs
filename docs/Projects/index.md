@@ -36,7 +36,7 @@ To change the project name you can click on the settings icon in the project das
 
 ### Deleting a project
 
-To remove a project, please navigate to the project dashboard and select the settings icon. You will be asked to confirm the removal of all associated resources within the project. Ensure you check the box to the right to acknowledge this action before proceeding for:
+To remove a project, please navigate to the project dashboard and select the settings icon. Please, notice that all the info inside the project will be remove from the platform:
 
 - All the sites
 - All the domains linked to the sites
