@@ -44,7 +44,7 @@ const commonNavbarItems = [
 ];
 
 const commonDiscord = "https://discord.gg/fleek";
-const commonTwitter = "https://twitter.com/fleekxyz";
+const commonTwitter = "https://twitter.com/fleek";
 const commonHome = "https://fleek.xyz";
 const commonCompanyUrl = "https://fleek.xyz";
 const commonSupport = "https://support.fleek.xyz";
