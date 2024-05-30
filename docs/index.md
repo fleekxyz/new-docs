@@ -21,5 +21,5 @@ Fleek is an edge-optimized cloud platform where users can prepare, host and depl
 
 - Need support? Visit our [Support Center and Knowledge Hub.](https://support.fleek.xyz/hc/en-us)
 - Feedback? Enter our [Discord channel](https://discord.gg/fleek) to have a direct line with our developers.
-- Would like to find a bit more of what we do? In our [blog](https://blog.fleek.xyz) you can find more information.
+- Want more info on what Fleek does? You can find more information on our [blog](https://blog.fleek.xyz).
 
