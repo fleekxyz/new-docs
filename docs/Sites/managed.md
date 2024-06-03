@@ -85,7 +85,7 @@ Under the hosting section in Fleek, find the affected site, and visit the Settin
 
 ### Deleting a Site
 
-To delete a site, go to the site overview and click on the settings icon. In the general settings page, click on the **Delete Site** button. This will remove the site from your account and will no longer serve your site's content. You will be asked to confirm the removal of all associated resources within the site. Ensure you check the box to the right to acknowledge this action before proceeding for:
+To delete a site, go to the site overview and click on the settings icon. In the general settings page, click on the **Delete Site** button. This will remove the site from your account and will no longer serve your site's content. All information related to the site will be removed from the platform:
 
 - All the domains
 - All the IPNS keys
