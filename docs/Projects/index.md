@@ -36,14 +36,14 @@ To change the project name you can click on the settings icon in the project das
 
 ### Deleting a project
 
-To remove a project, please navigate to the project dashboard and select the settings icon. Please, notice that all the info inside the project will be remove from the platform:
+To remove a project, navigate to the project dashboard and click the 'Settings' icon. All of the data inside the project will be removed from the platform, including:
 
-- All the sites
-- All the domains linked to the sites
-- All the IPNS keys linked to the sites
-- All the Private Gateways
-- All the domains linked to the Private Gateways
-- All the files stored
+- All of the sites
+- All of the domains linked to the sites
+- All of the IPNS keys linked to the sites
+- All of the private gateways
+- All of the domains linked to the private gateways
+- All of the files stored
 
 ![](../images/delete-project.png)
 
